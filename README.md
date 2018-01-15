@@ -1,2 +1,0 @@
-# desmondhw.github.io
-# curvetenstens
