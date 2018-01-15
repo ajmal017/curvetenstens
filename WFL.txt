@@ -1,0 +1,536 @@
+WALK FORWARD TEST RECORD: 
+
+Optimising from 2006-03-03 to 2008-03-03...
+Finished Optimisation: [31, 58, 70, 49, 0.05] 130.402602057
+Applying parameters on the period 2008-03-03 to 2008-04-03
+Change in Basis Points: 52.0
+Cumulative Basis Points: 52.0
+
+Optimising from 2006-04-03 to 2008-04-03...
+Finished Optimisation: [30, 56, 69, 54, 0.05] 12.6153057481
+Applying parameters on the period 2008-04-03 to 2008-05-03
+Change in Basis Points: 11.9
+Cumulative Basis Points: 63.9
+
+Optimising from 2006-05-03 to 2008-05-03...
+Finished Optimisation: [30, 56, 69, 54, 0.05] 14.9406328161
+Applying parameters on the period 2008-05-03 to 2008-06-03
+Change in Basis Points: -6.49999999999
+Cumulative Basis Points: 57.4
+
+Optimising from 2006-06-03 to 2008-06-03...
+Finished Optimisation: [30, 56, 69, 49, 0.05] 22.2874824265
+Applying parameters on the period 2008-06-03 to 2008-07-03
+Change in Basis Points: -2.29999999999
+Cumulative Basis Points: 55.1
+
+Optimising from 2006-07-03 to 2008-07-03...
+Finished Optimisation: [30, 55, 69, 49, 0.05] 7.12335264175
+Applying parameters on the period 2008-07-03 to 2008-08-03
+Change in Basis Points: 12.3
+Cumulative Basis Points: 67.4
+
+Optimising from 2006-08-03 to 2008-08-03...
+Finished Optimisation: [30, 56, 69, 49, 0.05] 12.2119664199
+Applying parameters on the period 2008-08-03 to 2008-09-03
+Change in Basis Points: 12.0
+Cumulative Basis Points: 79.4
+
+Optimising from 2006-09-03 to 2008-09-03...
+Finished Optimisation: [31, 58, 69, 49, 0.05] 32.0780399176
+Applying parameters on the period 2008-09-03 to 2008-10-03
+Change in Basis Points: 14.2
+Cumulative Basis Points: 93.6000000001
+
+Optimising from 2006-10-03 to 2008-10-03...
+Finished Optimisation: [31, 58, 69, 49, 0.05] 20.4869067573
+Applying parameters on the period 2008-10-03 to 2008-11-03
+Change in Basis Points: 18.7
+Cumulative Basis Points: 112.3
+
+Optimising from 2006-11-03 to 2008-11-03...
+Finished Optimisation: [31, 58, 69, 49, 0.05] 34.2842055305
+Applying parameters on the period 2008-11-03 to 2008-12-03
+Change in Basis Points: 9.60000000001
+Cumulative Basis Points: 121.9
+
+Optimising from 2006-12-03 to 2008-12-03...
+Finished Optimisation: [31, 58, 69, 49, 0.05] 36.3948451089
+Applying parameters on the period 2008-12-03 to 2009-01-03
+Change in Basis Points: 41.1
+Cumulative Basis Points: 163.0
+
+Optimising from 2007-01-03 to 2009-01-03...
+Finished Optimisation: [31, 47, 69, 50, 0.05] 19.6016301327
+Applying parameters on the period 2009-01-03 to 2009-02-03
+Change in Basis Points: 12.9
+Cumulative Basis Points: 175.9
+
+Optimising from 2007-02-03 to 2009-02-03...
+Finished Optimisation: [31, 57, 65, 50, 0.05] 5.83223111043
+Applying parameters on the period 2009-02-03 to 2009-03-03
+Change in Basis Points: -1.49999999999
+Cumulative Basis Points: 174.4
+
+Optimising from 2007-03-03 to 2009-03-03...
+Finished Optimisation: [34, 56, 68, 48, 0.05] 47.0873263991
+Applying parameters on the period 2009-03-03 to 2009-04-03
+Change in Basis Points: 18.4
+Cumulative Basis Points: 192.8
+
+Optimising from 2007-04-03 to 2009-04-03...
+Finished Optimisation: [34, 56, 69, 49, 0.05] 2954165.29625
+Applying parameters on the period 2009-04-03 to 2009-05-03
+Change in Basis Points: -1.59999999999
+Cumulative Basis Points: 191.2
+
+Optimising from 2007-05-03 to 2009-05-03...
+Finished Optimisation: [31, 54, 69, 56, 0.05] 7.11591309892
+Applying parameters on the period 2009-05-03 to 2009-06-03
+Change in Basis Points: 38.1
+Cumulative Basis Points: 229.3
+
+Optimising from 2007-06-03 to 2009-06-03...
+Finished Optimisation: [31, 57, 68, 47, 0.05] 14.2640362525
+Applying parameters on the period 2009-06-03 to 2009-07-03
+Change in Basis Points: -2.49999999999
+Cumulative Basis Points: 226.8
+
+Optimising from 2007-07-03 to 2009-07-03...
+Finished Optimisation: [30, 57, 68, 47, 0.05] 10.5033107434
+Applying parameters on the period 2009-07-03 to 2009-08-03
+Change in Basis Points: -2.29999999999
+Cumulative Basis Points: 224.5
+
+Optimising from 2007-08-03 to 2009-08-03...
+Finished Optimisation: [31, 57, 68, 47, 0.05] 15.3047378753
+Applying parameters on the period 2009-08-03 to 2009-09-03
+Change in Basis Points: -15.6
+Cumulative Basis Points: 208.9
+
+Optimising from 2007-09-03 to 2009-09-03...
+Finished Optimisation: [33, 59, 67, 46, 0.05] 3.19193798368
+Applying parameters on the period 2009-09-03 to 2009-10-03
+Change in Basis Points: 9.90000000001
+Cumulative Basis Points: 218.8
+
+Optimising from 2007-10-03 to 2009-10-03...
+Finished Optimisation: [31, 59, 69, 49, 0.04] 3.37528796596
+Applying parameters on the period 2009-10-03 to 2009-11-03
+Change in Basis Points: -9.6
+Cumulative Basis Points: 209.2
+
+Optimising from 2007-11-03 to 2009-11-03...
+Finished Optimisation: [28, 46, 68, 50, 0.05] 3.90106270974
+Applying parameters on the period 2009-11-03 to 2009-12-03
+Change in Basis Points: 11.5
+Cumulative Basis Points: 220.7
+
+Optimising from 2007-12-03 to 2009-12-03...
+Finished Optimisation: [28, 48, 65, 50, 0.05] 2.62836911901
+Applying parameters on the period 2009-12-03 to 2010-01-03
+Change in Basis Points: 24.0
+Cumulative Basis Points: 244.7
+
+Optimising from 2008-01-03 to 2010-01-03...
+Finished Optimisation: [28, 48, 70, 49, 0.05] 3.94857497444
+Applying parameters on the period 2010-01-03 to 2010-02-03
+Change in Basis Points: 24.8
+Cumulative Basis Points: 269.5
+
+Optimising from 2008-02-03 to 2010-02-03...
+Finished Optimisation: [28, 46, 64, 50, 0.05] 6.88575520299
+Applying parameters on the period 2010-02-03 to 2010-03-03
+Change in Basis Points: -1.1
+Cumulative Basis Points: 268.4
+
+Optimising from 2008-03-03 to 2010-03-03...
+Finished Optimisation: [28, 48, 70, 49, 0.05] 4.40691660849
+Applying parameters on the period 2010-03-03 to 2010-04-03
+Change in Basis Points: 10.2
+Cumulative Basis Points: 278.6
+
+Optimising from 2008-04-03 to 2010-04-03...
+Finished Optimisation: [28, 46, 69, 49, 0.05] 5.65744528916
+Applying parameters on the period 2010-04-03 to 2010-05-03
+Change in Basis Points: 5.2
+Cumulative Basis Points: 283.8
+
+Optimising from 2008-05-03 to 2010-05-03...
+Finished Optimisation: [31, 49, 69, 53, 0.04] 4.20530427333
+Applying parameters on the period 2010-05-03 to 2010-06-03
+Change in Basis Points: 14.9
+Cumulative Basis Points: 298.7
+
+Optimising from 2008-06-03 to 2010-06-03...
+Finished Optimisation: [28, 48, 69, 49, 0.04] 6.01003655245
+Applying parameters on the period 2010-06-03 to 2010-07-03
+Change in Basis Points: 9.66327712293e-13
+Cumulative Basis Points: 298.7
+
+Optimising from 2008-07-03 to 2010-07-03...
+Finished Optimisation: [28, 48, 70, 50, 0.04] 5.89503469518
+Applying parameters on the period 2010-07-03 to 2010-08-03
+Change in Basis Points: 4.30000000001
+Cumulative Basis Points: 303.0
+
+Optimising from 2008-08-03 to 2010-08-03...
+Finished Optimisation: [26, 48, 70, 49, 0.04] 15.7440571171
+Applying parameters on the period 2010-08-03 to 2010-09-03
+Change in Basis Points: -0.6
+Cumulative Basis Points: 302.4
+
+Optimising from 2008-09-03 to 2010-09-03...
+Finished Optimisation: [27, 48, 70, 49, 0.04] 7.72490970159
+Applying parameters on the period 2010-09-03 to 2010-10-03
+Change in Basis Points: -7.6
+Cumulative Basis Points: 294.8
+
+Optimising from 2008-10-03 to 2010-10-03...
+Finished Optimisation: [27, 48, 70, 50, 0.04] 6.23175712576
+Applying parameters on the period 2010-10-03 to 2010-11-03
+Change in Basis Points: 15.3
+Cumulative Basis Points: 310.1
+
+Optimising from 2008-11-03 to 2010-11-03...
+Finished Optimisation: [27, 48, 70, 51, 0.04] 9.20538567016
+Applying parameters on the period 2010-11-03 to 2010-12-03
+Change in Basis Points: 5.5
+Cumulative Basis Points: 315.6
+
+Optimising from 2008-12-03 to 2010-12-03...
+Finished Optimisation: [28, 48, 70, 50, 0.04] 9.27318243219
+Applying parameters on the period 2010-12-03 to 2011-01-03
+Change in Basis Points: 18.1
+Cumulative Basis Points: 333.7
+
+Optimising from 2009-01-03 to 2011-01-03...
+Finished Optimisation: [35, 49, 70, 47, 0.05] 42.5382067736
+Applying parameters on the period 2011-01-03 to 2011-02-03
+Change in Basis Points: 15.9
+Cumulative Basis Points: 349.6
+
+Optimising from 2009-02-03 to 2011-02-03...
+Finished Optimisation: [31, 48, 70, 47, 0.05] 14.5532820201
+Applying parameters on the period 2011-02-03 to 2011-03-03
+Change in Basis Points: 0.500000000003
+Cumulative Basis Points: 350.1
+
+Optimising from 2009-03-03 to 2011-03-03...
+Finished Optimisation: [28, 45, 70, 50, 0.05] 11.8828280158
+Applying parameters on the period 2011-03-03 to 2011-04-03
+Change in Basis Points: -4.9
+Cumulative Basis Points: 345.2
+
+Optimising from 2009-04-03 to 2011-04-03...
+Finished Optimisation: [32, 49, 70, 50, 0.05] 14.2087121504
+Applying parameters on the period 2011-04-03 to 2011-05-03
+Change in Basis Points: 8.20000000001
+Cumulative Basis Points: 353.4
+
+Optimising from 2009-05-03 to 2011-05-03...
+Finished Optimisation: [31, 48, 70, 50, 0.05] 19.8703627254
+Applying parameters on the period 2011-05-03 to 2011-06-03
+Change in Basis Points: -6.3
+Cumulative Basis Points: 347.1
+
+Optimising from 2009-06-03 to 2011-06-03...
+Finished Optimisation: [31, 48, 70, 47, 0.04] 15.0936906706
+Applying parameters on the period 2011-06-03 to 2011-07-03
+Change in Basis Points: 1.8
+Cumulative Basis Points: 348.9
+
+Optimising from 2009-07-03 to 2011-07-03...
+Finished Optimisation: [31, 48, 70, 47, 0.04] 14.2117554845
+Applying parameters on the period 2011-07-03 to 2011-08-03
+Change in Basis Points: -13.4
+Cumulative Basis Points: 335.5
+
+Optimising from 2009-08-03 to 2011-08-03...
+Finished Optimisation: [31, 45, 70, 50, 0.05] 37.1233786147
+Applying parameters on the period 2011-08-03 to 2011-09-03
+Change in Basis Points: 66.0
+Cumulative Basis Points: 401.5
+
+Optimising from 2009-09-03 to 2011-09-03...
+Finished Optimisation: [34, 44, 70, 53, 0.05] 2342282.86167
+Applying parameters on the period 2011-09-03 to 2011-10-03
+Change in Basis Points: -2.09999999999
+Cumulative Basis Points: 399.4
+
+Optimising from 2009-10-03 to 2011-10-03...
+Finished Optimisation: [34, 44, 70, 50, 0.05] 2197221.2
+Applying parameters on the period 2011-10-03 to 2011-11-03
+Change in Basis Points: 31.6
+Cumulative Basis Points: 431.0
+
+Optimising from 2009-11-03 to 2011-11-03...
+Finished Optimisation: [34, 44, 70, 53, 0.05] 2380863.09084
+Applying parameters on the period 2011-11-03 to 2011-12-03
+Change in Basis Points: 8.20000000001
+Cumulative Basis Points: 439.2
+
+Optimising from 2009-12-03 to 2011-12-03...
+Finished Optimisation: [34, 44, 70, 53, 0.05] 2436418.62084
+Applying parameters on the period 2011-12-03 to 2012-01-03
+Change in Basis Points: 1.90000000001
+Cumulative Basis Points: 441.1
+
+Optimising from 2010-01-03 to 2012-01-03...
+Finished Optimisation: [33, 47, 69, 51, 0.05] 55.9428150191
+Applying parameters on the period 2012-01-03 to 2012-02-03
+Change in Basis Points: 25.9
+Cumulative Basis Points: 467.0
+
+Optimising from 2010-02-03 to 2012-02-03...
+Finished Optimisation: [33, 47, 69, 51, 0.05] 35.6817867546
+Applying parameters on the period 2012-02-03 to 2012-03-03
+Change in Basis Points: 17.6
+Cumulative Basis Points: 484.6
+
+Optimising from 2010-03-03 to 2012-03-03...
+Finished Optimisation: [34, 44, 70, 53, 0.05] 2390122.34584
+Applying parameters on the period 2012-03-03 to 2012-04-03
+Change in Basis Points: 3.60000000001
+Cumulative Basis Points: 488.2
+
+Optimising from 2010-04-03 to 2012-04-03...
+Finished Optimisation: [33, 47, 70, 46, 0.04] 258.974832582
+Applying parameters on the period 2012-04-03 to 2012-05-03
+Change in Basis Points: 38.4
+Cumulative Basis Points: 526.6
+
+Optimising from 2010-05-03 to 2012-05-03...
+Finished Optimisation: [34, 44, 70, 50, 0.05] 2171758.24875
+Applying parameters on the period 2012-05-03 to 2012-06-03
+Change in Basis Points: 27.5
+Cumulative Basis Points: 554.1
+
+Optimising from 2010-06-03 to 2012-06-03...
+Finished Optimisation: [34, 47, 66, 43, 0.04] 2703393.80667
+Applying parameters on the period 2012-06-03 to 2012-07-03
+Change in Basis Points: -30.4
+Cumulative Basis Points: 523.7
+
+Optimising from 2010-07-03 to 2012-07-03...
+Finished Optimisation: [33, 47, 70, 50, 0.04] 176.419758864
+Applying parameters on the period 2012-07-03 to 2012-08-03
+Change in Basis Points: 4.60000000001
+Cumulative Basis Points: 528.3
+
+Optimising from 2010-08-03 to 2012-08-03...
+Finished Optimisation: [31, 50, 70, 46, 0.04] 16.011501668
+Applying parameters on the period 2012-08-03 to 2012-09-03
+Change in Basis Points: 4.7
+Cumulative Basis Points: 533.0
+
+Optimising from 2010-09-03 to 2012-09-03...
+Finished Optimisation: [33, 51, 66, 51, 0.05] 17.3103685649
+Applying parameters on the period 2012-09-03 to 2012-10-03
+Change in Basis Points: 2.90000000001
+Cumulative Basis Points: 535.9
+
+Optimising from 2010-10-03 to 2012-10-03...
+Finished Optimisation: [34, 52, 65, 55, 0.05] 27.0383908794
+Applying parameters on the period 2012-10-03 to 2012-11-03
+Change in Basis Points: 23.2
+Cumulative Basis Points: 559.1
+
+Optimising from 2010-11-03 to 2012-11-03...
+Finished Optimisation: [34, 52, 65, 55, 0.05] 26.9208156176
+Applying parameters on the period 2012-11-03 to 2012-12-03
+Change in Basis Points: 7.50000000001
+Cumulative Basis Points: 566.6
+
+Optimising from 2010-12-03 to 2012-12-03...
+Finished Optimisation: [34, 52, 65, 55, 0.05] 25.0396114297
+Applying parameters on the period 2012-12-03 to 2013-01-03
+Change in Basis Points: 9.60000000001
+Cumulative Basis Points: 576.2
+
+Optimising from 2011-01-03 to 2013-01-03...
+Finished Optimisation: [34, 52, 70, 46, 0.05] 20.7907692746
+Applying parameters on the period 2013-01-03 to 2013-02-03
+Change in Basis Points: -7.69999999999
+Cumulative Basis Points: 568.5
+
+Optimising from 2011-02-03 to 2013-02-03...
+Finished Optimisation: [32, 50, 65, 44, 0.05] 24.1727578884
+Applying parameters on the period 2013-02-03 to 2013-03-03
+Change in Basis Points: 4.37694325228e-12
+Cumulative Basis Points: 568.5
+
+Optimising from 2011-03-03 to 2013-03-03...
+Finished Optimisation: [33, 55, 65, 44, 0.05] 84.1807167685
+Applying parameters on the period 2013-03-03 to 2013-04-03
+Change in Basis Points: -9.09999999999
+Cumulative Basis Points: 559.4
+
+Optimising from 2011-04-03 to 2013-04-03...
+Finished Optimisation: [34, 51, 70, 56, 0.05] 11.2103326751
+Applying parameters on the period 2013-04-03 to 2013-05-03
+Change in Basis Points: 4.80000000001
+Cumulative Basis Points: 564.200000001
+
+Optimising from 2011-05-03 to 2013-05-03...
+Finished Optimisation: [35, 52, 70, 46, 0.04] 12.0889422889
+Applying parameters on the period 2013-05-03 to 2013-06-03
+Change in Basis Points: 8.90000000001
+Cumulative Basis Points: 573.100000001
+
+Optimising from 2011-06-03 to 2013-06-03...
+Finished Optimisation: [35, 49, 70, 56, 0.05] 11.2816023695
+Applying parameters on the period 2013-06-03 to 2013-07-03
+Change in Basis Points: -9.59999999999
+Cumulative Basis Points: 563.500000001
+
+Optimising from 2011-07-03 to 2013-07-03...
+Finished Optimisation: [35, 48, 66, 56, 0.04] 14.4461271941
+Applying parameters on the period 2013-07-03 to 2013-08-03
+Change in Basis Points: -1.29999999998
+Cumulative Basis Points: 562.200000001
+
+Optimising from 2011-08-03 to 2013-08-03...
+Finished Optimisation: [34, 51, 63, 46, 0.05] 18.1375173754
+Applying parameters on the period 2013-08-03 to 2013-09-03
+Change in Basis Points: -7.89999999999
+Cumulative Basis Points: 554.300000001
+
+Optimising from 2011-09-03 to 2013-09-03...
+Finished Optimisation: [35, 51, 64, 50, 0.05] 6.78271573163
+Applying parameters on the period 2013-09-03 to 2013-10-03
+Change in Basis Points: -0.999999999987
+Cumulative Basis Points: 553.300000001
+
+Optimising from 2011-10-03 to 2013-10-03...
+Finished Optimisation: [34, 51, 63, 46, 0.05] 37.6051029014
+Applying parameters on the period 2013-10-03 to 2013-11-03
+Change in Basis Points: 10.6
+Cumulative Basis Points: 563.900000001
+
+Optimising from 2011-11-03 to 2013-11-03...
+Finished Optimisation: [29, 53, 67, 47, 0.05] 7.21988329781
+Applying parameters on the period 2013-11-03 to 2013-12-03
+Change in Basis Points: 11.9
+Cumulative Basis Points: 575.800000001
+
+Optimising from 2011-12-03 to 2013-12-03...
+Finished Optimisation: [29, 56, 68, 45, 0.04] 10.4406671244
+Applying parameters on the period 2013-12-03 to 2014-01-03
+Change in Basis Points: -3.5
+Cumulative Basis Points: 572.300000001
+
+Optimising from 2012-01-03 to 2014-01-03...
+Finished Optimisation: [29, 56, 63, 41, 0.05] 7.51071925162
+Applying parameters on the period 2014-01-03 to 2014-02-03
+Change in Basis Points: 1.90000000001
+Cumulative Basis Points: 574.200000001
+
+Optimising from 2012-02-03 to 2014-02-03...
+Finished Optimisation: [29, 56, 67, 45, 0.05] 7.09823318394
+Applying parameters on the period 2014-02-03 to 2014-03-03
+Change in Basis Points: 11.1
+Cumulative Basis Points: 585.300000001
+
+Optimising from 2012-03-03 to 2014-03-03...
+Finished Optimisation: [29, 56, 67, 47, 0.04] 11.0986099886
+Applying parameters on the period 2014-03-03 to 2014-04-03
+Change in Basis Points: -9.09999999999
+Cumulative Basis Points: 576.200000001
+
+Optimising from 2012-04-03 to 2014-04-03...
+Finished Optimisation: [29, 56, 67, 45, 0.05] 7.5930715075
+Applying parameters on the period 2014-04-03 to 2014-05-03
+Change in Basis Points: 9.8
+Cumulative Basis Points: 586.000000001
+
+Optimising from 2012-05-03 to 2014-05-03...
+Finished Optimisation: [29, 56, 67, 45, 0.05] 6.44834768018
+Applying parameters on the period 2014-05-03 to 2014-06-03
+Change in Basis Points: -15.5
+Cumulative Basis Points: 570.500000001
+
+Optimising from 2012-06-03 to 2014-06-03...
+Finished Optimisation: [35, 53, 60, 47, 0.05] 6.04532076531
+Applying parameters on the period 2014-06-03 to 2014-07-03
+Change in Basis Points: 1.70000000001
+Cumulative Basis Points: 572.200000001
+
+Optimising from 2012-07-03 to 2014-07-03...
+Finished Optimisation: [29, 56, 66, 47, 0.05] 5.9998290268
+Applying parameters on the period 2014-07-03 to 2014-08-03
+Change in Basis Points: 3.50000000001
+Cumulative Basis Points: 575.700000001
+
+Optimising from 2012-08-03 to 2014-08-03...
+Finished Optimisation: [35, 53, 60, 47, 0.05] 5.05701174351
+Applying parameters on the period 2014-08-03 to 2014-09-03
+Change in Basis Points: 0.200000000014
+Cumulative Basis Points: 575.900000001
+
+Optimising from 2012-09-03 to 2014-09-03...
+Finished Optimisation: [29, 56, 68, 47, 0.05] 3.84020428071
+Applying parameters on the period 2014-09-03 to 2014-10-03
+Change in Basis Points: 10.1
+Cumulative Basis Points: 586.000000001
+
+Optimising from 2012-10-03 to 2014-10-03...
+Finished Optimisation: [35, 53, 63, 47, 0.05] 2.5942743908
+Applying parameters on the period 2014-10-03 to 2014-11-03
+Change in Basis Points: 16.2
+Cumulative Basis Points: 602.200000001
+
+Optimising from 2012-11-03 to 2014-11-03...
+Finished Optimisation: [34, 53, 64, 47, 0.05] 2.0689153854
+Applying parameters on the period 2014-11-03 to 2014-12-03
+Change in Basis Points: -2.09999999999
+Cumulative Basis Points: 600.100000001
+
+Optimising from 2012-12-03 to 2014-12-03...
+Finished Optimisation: [34, 53, 63, 42, 0.05] 2.10146215123
+Applying parameters on the period 2014-12-03 to 2015-01-03
+Change in Basis Points: 24.5
+Cumulative Basis Points: 624.600000001
+
+Optimising from 2013-01-03 to 2015-01-03...
+Finished Optimisation: [34, 53, 63, 47, 0.05] 1.62105653024
+Applying parameters on the period 2015-01-03 to 2015-02-03
+Change in Basis Points: 33.5
+Cumulative Basis Points: 658.100000001
+
+Optimising from 2013-02-03 to 2015-02-03...
+Finished Optimisation: [29, 53, 68, 46, 0.05] 2.75871404983
+Applying parameters on the period 2015-02-03 to 2015-03-03
+Change in Basis Points: 21.1
+Cumulative Basis Points: 679.200000001
+
+Optimising from 2013-03-03 to 2015-03-03...
+Finished Optimisation: [31, 53, 66, 46, 0.05] 4.31432481724
+Applying parameters on the period 2015-03-03 to 2015-04-03
+Change in Basis Points: 5.40000000001
+Cumulative Basis Points: 684.600000001
+
+Optimising from 2013-04-03 to 2015-04-03...
+Finished Optimisation: [31, 53, 66, 46, 0.05] 4.19163746138
+Applying parameters on the period 2015-04-03 to 2015-05-03
+Change in Basis Points: 2.20000000001
+Cumulative Basis Points: 686.800000001
+
+Optimising from 2013-05-03 to 2015-05-03...
+Finished Optimisation: [31, 53, 66, 46, 0.05] 4.41924705042
+Applying parameters on the period 2015-05-03 to 2015-06-03
+Change in Basis Points: -14.2
+Cumulative Basis Points: 672.600000001
+
+Optimising from 2013-06-03 to 2015-06-03...
+Finished Optimisation: [31, 53, 66, 46, 0.05] 3.94080476819
+Applying parameters on the period 2015-06-03 to 2015-07-03
+Change in Basis Points: 10.5
+Cumulative Basis Points: 683.100000001
+
+Optimising from 2013-07-03 to 2015-07-03...
+Finished Optimisation: [31, 53, 66, 41, 0.05] 4.42264500904
+Applying parameters on the period 2015-07-03 to 2015-08-03
+Change in Basis Points: -42.8
+Cumulative Basis Points: 640.300000001
+
