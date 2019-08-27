@@ -2,7 +2,7 @@
 
 This project was an experiment of quantitative research on a three-legged bond futures spread trading strategy. It only generates trading signals from backtesting data, without any execution involved. 
 
-Contributed by: Desmond Ho and Mark Ng Say Yao.
+Contributed by: Desmond Ho and Mark Ng.
 Pls contact desmondhw@gmail.com for any questions.
 
 **Data**:<br>
