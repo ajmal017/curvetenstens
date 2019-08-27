@@ -9,6 +9,14 @@ Pls contact desmondhw@gmail.com for any questions.
 
 Data was sampled was from 25/02/2012 to 18/02/2015 inclusive. Approximately 2.6 years of hourly data from CQG Integrated Client.
 
+CurveTensTens_Cleaned.csv is the data file.
+
+**Backtest**:<br>
+
+CurveTensTens.py runs the backtest. Make sure to download CurveTensTens_Cleaned.csv into the same directory as CurveTensTens.py.
+Ignore any trend following related codes (line 1301 and 1412).<br>
+plotCurveTensTens.py plots the results.
+
 **Report:**<br>
 Full report can be found in: curveTensTensPaper.pdf
 
