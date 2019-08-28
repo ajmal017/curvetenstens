@@ -21,6 +21,7 @@ WFL.txt is a an output of CurveTensTens.py that logs the walkfoward performance.
 backtestLogDetailedWF is a tradelog of the backtest, detailing entries, exits, RSI signal and P/L.
 
 **Report:**<br>
+
 Full report can be found in: curveTensTensPaper.pdf
 
 **Requirements:** <br>
@@ -38,10 +39,9 @@ MacOS and Linux: source activate myenv<br>
 
 Your console will change- indicating (myenv) on it.<br>
 
-3. Install required packages in this environment:
-pip install pandas
+3. Install required packages in this environment:<br>
+pip install pandas<br>
 pip install jupyter<br>
-
 etc..
 
 **Python Libraries Required:**<br>
