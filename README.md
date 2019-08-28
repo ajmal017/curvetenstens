@@ -17,12 +17,32 @@ CurveTensTens.py runs the backtest. Make sure to download CurveTensTens_Cleaned.
 Ignore any trend following related codes (line 1301 and 1412).<br>
 plotCurveTensTens.py plots the results.
 
+WFL.txt is a an output of CurveTensTens.py that logs the walkfoward performance.
+backtestLogDetailedWF is a tradelog of the backtest, detailing entries, exits, RSI signal and P/L.
+
 **Report:**<br>
 Full report can be found in: curveTensTensPaper.pdf
 
 **Requirements:** <br>
 
 * Python 2.7 <br>
+
+To create a virtual environment for Python 2.7 use Anaconda Navigator - https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html<br>
+
+1. Create a virtual environment with pyhton 2.7:
+conda create -n myenv python=2.7<br>
+
+2. Activate the enviroment:
+Wndows: activate myenv
+MacOS and Linux: source activate myenv<br>
+
+Your console will change- indicating (myenv) on it.<br>
+
+3. Install required packages in this environment:
+pip install pandas
+pip install jupyter<br>
+
+etc..
 
 **Python Libraries Required:**<br>
 
